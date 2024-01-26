@@ -1,0 +1,5 @@
+1. Login Admin
+2. Admin bisa menginputkan data pasien
+3. Admin bisa mendaftarkan ke poli kunjungan
+4. Admin bisa melihat data kunjungan rawat jalan
+5. Admin bisa melihat data pasien
